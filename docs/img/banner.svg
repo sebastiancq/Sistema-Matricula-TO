@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Sistema de Registro y Matrícula">
+  <rect width="1280" height="300" fill="#F2F5F0"/>
+  <!-- Columnas de la semana, como la grilla del programa -->
+  <rect x="760" y="0" width="104" height="300" fill="#E6ECE5"/>
+  <rect x="864" y="0" width="104" height="300" fill="#F2F5F0"/>
+  <rect x="968" y="0" width="104" height="300" fill="#E6ECE5"/>
+  <rect x="1072" y="0" width="104" height="300" fill="#F2F5F0"/>
+  <rect x="1176" y="0" width="104" height="300" fill="#E6ECE5"/>
+  <g stroke="#D3DCD2" stroke-width="1">
+    <line x1="760" y1="60" x2="1280" y2="60"/>
+    <line x1="760" y1="120" x2="1280" y2="120"/>
+    <line x1="760" y1="180" x2="1280" y2="180"/>
+    <line x1="760" y1="240" x2="1280" y2="240"/>
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4C5A54" text-anchor="middle">
+    <text x="812" y="38">LU</text>
+    <text x="916" y="38">MA</text>
+    <text x="1020" y="38">MI</text>
+    <text x="1124" y="38">JU</text>
+    <text x="1228" y="38">VI</text>
+  </g>
+  <!-- Bloques de clase -->
+  <rect x="766" y="66" width="92" height="108" rx="10" fill="#CFE0D2"/>
+  <rect x="870" y="126" width="92" height="108" rx="10" fill="#E3D5EF"/>
+  <rect x="974" y="66" width="92" height="48" rx="10" fill="#F2D6E0"/>
+  <rect x="1078" y="186" width="92" height="108" rx="10" fill="#CFE0D2"/>
+  <rect x="1182" y="126" width="92" height="108" rx="10" fill="#F2D6E0"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#23302B" text-anchor="middle">
+    <text x="812" y="126">Modelo</text>
+    <text x="916" y="186">Vista</text>
+    <text x="1020" y="95">CSV</text>
+    <text x="1124" y="246">Reglas</text>
+    <text x="1228" y="186">Control</text>
+  </g>
+  <!-- Titulo -->
+  <text x="64" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#23302B">Sistema de Registro</text>
+  <text x="64" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#23302B">y Matrícula</text>
+  <text x="64" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#4E4470">C++ y Qt, con MVC, Observer, Factory Method y Strategy</text>
+  <rect x="64" y="58" width="56" height="8" rx="4" fill="#A895CC"/>
+</svg>

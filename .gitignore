@@ -1,0 +1,6 @@
+build/
+salida/
+*.pro.user
+.qmake.stash
+Makefile*
+compile_commands.json

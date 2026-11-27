@@ -1,0 +1,8 @@
+# Archivo dañado: el curso de la línea 7 usa un aula que no está registrada
+carrera;Ingeniería de Sistemas
+persona;Docente;D-0456;Beatriz Salinas;Ingeniería de Sistemas
+persona;Estudiante;20231234;Ana Torres;Ingeniería de Sistemas
+aula;A-101;40
+curso;IS-0101;Álgebra Lineal;;4;1;A-101;40;LU 07-09, MI 07-09;
+curso;IS-0603;Tecnologías de Objetos;Ingeniería de Sistemas;4;6;B-999;30;MA 16-18;D-0456
+matricula;20231234;IS-0603;10/11/2026

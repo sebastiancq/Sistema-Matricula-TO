@@ -1,0 +1,86 @@
+# Casos límite
+carrera;Ingeniería de Sistemas
+persona;Docente;D-0456;Beatriz Salinas;Ingeniería de Sistemas
+persona;Docente;D-0512;Carlos Mendoza;Ingeniería Electrónica
+persona;Docente;D-0533;Patricia Valdivia;Ingeniería de Sistemas
+persona;Docente;D-0571;Miguel Ccori;Matemáticas
+persona;Administrativo;A-0789;Elena Paredes;Registro Académico
+persona;Estudiante;20231234;Ana Torres;Ingeniería de Sistemas
+persona;Estudiante;20232001;Luis Quispe;Ingeniería de Sistemas
+persona;Estudiante;20232003;Jorge Ccama;Ingeniería de Sistemas
+persona;Estudiante;20222015;Diego Flores;Ingeniería de Sistemas
+persona;Estudiante;20221877;Lucía Ccahuana;Ingeniería de Sistemas
+persona;Estudiante;20242010;Rosa Mamani;Ingeniería de Sistemas
+persona;Estudiante;20262002;Maria Huaman;Ingeniería de Sistemas
+persona;Estudiante;20261005;Kevin Apaza;Ingeniería de Sistemas
+aprobados;20231234;IS-0101 IS-0102 IS-0103 IS-0104 IS-0201 IS-0202 IS-0203 IS-0204 IS-0301 IS-0302 IS-0303 IS-0304 IS-0401 IS-0402 IS-0403 IS-0404 IS-0501 IS-0502 IS-0504 IS-0505
+aprobados;20232001;IS-0101 IS-0102 IS-0103 IS-0104 IS-0201 IS-0202 IS-0203 IS-0204 IS-0301 IS-0302 IS-0303 IS-0304 IS-0401 IS-0402 IS-0403 IS-0404 IS-0501 IS-0502 IS-0504 IS-0505
+aprobados;20232003;IS-0101 IS-0102 IS-0103 IS-0104 IS-0201 IS-0202 IS-0203 IS-0204 IS-0301 IS-0302 IS-0303 IS-0304 IS-0401 IS-0402 IS-0403 IS-0404 IS-0501 IS-0502 IS-0504 IS-0505
+aprobados;20222015;IS-0101 IS-0102 IS-0103 IS-0104 IS-0201 IS-0202 IS-0203 IS-0204 IS-0301 IS-0302 IS-0303 IS-0304 IS-0401 IS-0402 IS-0403 IS-0404 IS-0501 IS-0502 IS-0504 IS-0505 IS-0601 IS-0602 IS-0603 IS-0605
+aprobados;20221877;IS-0101 IS-0102 IS-0103 IS-0104 IS-0201 IS-0202 IS-0203 IS-0204 IS-0301 IS-0302 IS-0303 IS-0304 IS-0401 IS-0402 IS-0403 IS-0404 IS-0501 IS-0502 IS-0504 IS-0505 IS-0601 IS-0602 IS-0603 IS-0605
+aprobados;20242010;IS-0101 IS-0102 IS-0103 IS-0104 IS-0201 IS-0202 IS-0203 IS-0204 IS-0301 IS-0302 IS-0303 IS-0304
+aula;A-101;40
+aula;A-102;40
+aula;A-103;40
+aula;L-301;30
+aula;L-302;30
+aula;L-303;30
+aula;A-201;40
+aula;L-304;25
+curso;IS-0101;Álgebra Lineal;;4;1;A-101;40;LU 07-09, VI 07-09;D-0571;
+curso;IS-0102;Estructuras Discretas I;Ingeniería de Sistemas;4;1;A-101;40;LU 09-11, VI 09-11;;
+curso;IS-0103;Introducción al Desarrollo de Software;Ingeniería de Sistemas;5;1;L-301;30;LU 11-13, MA 07-08, VI 11-13;;
+curso;IS-0104;Introducción a la Ingeniería;;3;1;A-101;40;MA 09-11, MI 07-08;;
+curso;IS-0201;Cálculo en una Variable;;5;2;A-101;40;LU 14-15, JU 14-16, VI 14-16;D-0571;IS-0101
+curso;IS-0202;Estructuras Discretas II;Ingeniería de Sistemas;3;2;A-101;40;JU 16-18, VI 16-17;;IS-0102
+curso;IS-0204;Desarrollo de Software Orientado a Objetos;Ingeniería de Sistemas;4;2;L-301;30;JU 18-20, VI 18-20;;IS-0103
+curso;IS-0203;Introducción al Desarrollo Web;Ingeniería de Sistemas;4;2;L-301;30;LU 16-18, MA 14-16;;IS-0103
+curso;IS-0301;Cálculo en Varias Variables;;5;3;A-101;40;MA 11-12, MI 09-11, JU 07-09;;IS-0201
+curso;IS-0302;Estructura de Datos y Algoritmos;Ingeniería de Sistemas;4;3;L-301;30;MI 11-13, JU 09-11;D-0533;IS-0202 IS-0204
+curso;IS-0303;Desarrollo de Aplicaciones Web;Ingeniería de Sistemas;4;3;L-301;30;MI 07-09, JU 11-13;;IS-0203
+curso;IS-0304;Enfoque Empresarial;Ingeniería de Sistemas;3;3;A-102;40;LU 07-08, VI 07-09;;
+curso;IS-0401;Estadística Matemática, Probabilidades y Métodos Empíricos;;4;4;L-301;30;MA 16-18, MI 14-16;;IS-0301
+curso;IS-0402;Arquitectura de Computadoras;Ingeniería de Sistemas;3;4;L-301;30;MA 18-20, MI 16-17;D-0512;IS-0202
+curso;IS-0403;Análisis y Diseño de Algoritmos;Ingeniería de Sistemas;4;4;L-301;30;LU 18-20, MI 18-20;D-0456;IS-0302
+curso;IS-0404;Interacción Humano Computador;Ingeniería de Sistemas;3;4;L-302;30;MA 14-16, JU 14-15;;IS-0303
+curso;IS-0501;Investigación de Operaciones;Ingeniería de Sistemas;3;5;L-302;30;LU 09-11, MA 07-08;;IS-0401
+curso;IS-0502;Redes y Comunicación de Datos;Ingeniería de Sistemas;4;5;L-302;30;LU 11-13, MA 09-11;D-0512;IS-0402
+curso;IS-0504;Procesos de Desarrollo e Ingeniería de Software;Ingeniería de Sistemas;4;5;A-102;40;MA 11-13, MI 09-11;D-0533;IS-0302
+curso;IS-0505;Sistemas de Información;Ingeniería de Sistemas;3;5;A-102;40;MI 11-13, JU 07-08;;IS-0304
+curso;IS-0601;Métodos Numéricos;Ingeniería de Sistemas;4;6;L-302;30;LU 16-18, VI 16-18;D-0571;IS-0301
+curso;IS-0602;Sistemas Operativos;Ingeniería de Sistemas;4;6;L-301;30;LU 14-16, VI 14-16;D-0512;IS-0402
+curso;IS-0603;Tecnologías de Objetos;Ingeniería de Sistemas;4;6;L-302;3;MA 16-18, VI 18-20;D-0456;IS-0204
+curso;IS-0605;Base de Datos;Ingeniería de Sistemas;4;6;L-302;30;LU 18-20, MA 18-20;D-0533;IS-0302
+curso;IS-0702;Inteligencia Artificial;Ingeniería de Sistemas;4;7;L-302;30;JU 09-11, VI 09-11;;IS-0403
+curso;IS-0703;Seguridad Informática;Ingeniería de Sistemas;3;7;L-302;30;JU 11-13, VI 11-12;;IS-0502
+curso;IS-0704;Sistemas Distribuidos y Paralelos;Ingeniería de Sistemas;4;7;L-301;30;JU 07-09, VI 07-09;;IS-0602
+curso;IS-0705;Diseño y Arquitectura de Software;Ingeniería de Sistemas;3;7;A-103;40;LU 07-09, MA 07-08;D-0456;IS-0504
+curso;IS-0801;Gestión de Proyectos;Ingeniería de Sistemas;3;8;A-102;40;MI 14-16, JU 16-17;;IS-0504
+curso;IS-0802;Mantenimiento, Configuración, Despliegue y Evolución de Software;Ingeniería de Sistemas;5;8;L-302;30;MI 16-18, JU 18-20, VI 14-15;;IS-0705
+curso;IS-0803;Tecnologías de Información;Ingeniería de Sistemas;4;8;L-303;30;MI 18-20, JU 14-16;;IS-0505
+curso;IS-0805;Introducción al Desarrollo Móvil;Ingeniería de Sistemas;4;8;L-303;30;LU 14-16, VI 16-18;;IS-0303
+curso;IS-0901;Proyecto Integrador I;Ingeniería de Sistemas;3;9;L-303;30;MA 09-11, MI 07-08;;IS-0705
+curso;IS-0902;Gestión de Emprendimiento de Software;Ingeniería de Sistemas;3;9;A-103;40;MA 11-13, MI 09-10;;IS-0801
+curso;IS-0903;Fundamentos de Trabajo de Investigación;Ingeniería de Sistemas;4;9;A-101;40;MI 11-13, JU 09-11;;IS-0401
+curso;IS-0905;Fundamentos de Desarrollo de Software en la Nube;Ingeniería de Sistemas;4;9;L-303;30;JU 11-13, VI 09-11;;IS-0704
+curso;IS-1001;Proyecto Integrador II;Ingeniería de Sistemas;4;10;L-303;30;LU 16-18, MA 14-16;;IS-0901
+curso;IS-1002;Prácticas Preprofesionales;Ingeniería de Sistemas;3;10;A-101;40;LU 18-20, MA 16-17;;IS-0801
+curso;IS-1003;Trabajo de Investigación;Ingeniería de Sistemas;4;10;A-101;40;MA 18-20, MI 14-16;;IS-0903
+curso;IS-1004;Arquitectura Empresarial;Ingeniería de Sistemas;2;10;A-101;40;MI 16-18;;IS-0803
+matricula;20231234;IS-0603;10/11/2026
+matricula;20232001;IS-0603;10/11/2026
+matricula;20232003;IS-0603;10/11/2026
+matricula;20231234;IS-0605;10/11/2026
+matricula;20242010;IS-0403;11/11/2026
+matricula;20242010;IS-0402;11/11/2026
+matricula;20262002;IS-0101;11/11/2026
+matricula;20262002;IS-0103;11/11/2026
+matricula;20261005;IS-0101;12/11/2026
+matricula;20222015;IS-0702;12/11/2026
+matricula;20232001;IS-0601;12/11/2026
+matricula;20232001;IS-0602;12/11/2026
+matricula;20232001;IS-0605;12/11/2026
+matricula;20232001;IS-0702;12/11/2026
+matricula;20232001;IS-0801;12/11/2026
+espera;IS-0603;20222015
+espera;IS-0603;20221877

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/datos">
+        <file alias="01_inicio_semestre.csv">../datos/01_inicio_semestre.csv</file>
+    </qresource>
+</RCC>
